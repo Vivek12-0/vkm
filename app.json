@@ -57,8 +57,13 @@
       "value": "",
       "required": false
     },
-    "API_KEY": {
-      "description": "youtube song api key, generate free key or buy paid plan from panel.thequickearn.xyz",
+    "YT_API_KEY": {
+      "description": "youtube song api key, generate free key or buy paid plan",
+      "value": "",
+      "required": true
+    },
+     "YTPROXY_URL": {
+      "description": "https://tgapi.xbitcode.com",
       "value": "",
       "required": true
     },
