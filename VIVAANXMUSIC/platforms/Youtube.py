@@ -18,7 +18,7 @@ import base64
 from VIVAANXMUSIC import LOGGER
 from VIVAANXMUSIC.utils.database import is_on_off
 from VIVAANXMUSIC.utils.formatters import time_to_seconds
-from config import YT_API_KEY, API_KEY, API_URL, YTPROXY_URL as YTPROXY
+from config import YT_API_KEY, API_KEY, API_URL, VIDEO_API_URL, YTPROXY_URL as YTPROXY
 
 logger = LOGGER(__name__)
 
