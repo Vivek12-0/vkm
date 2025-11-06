@@ -8,11 +8,7 @@ assistants = []
 assistantids = []
 
 GROUPS_TO_JOIN = [
-    "aboutvivaan",
-    "VivaanSupport",
-    "VivaanUpdates",
-    "AboutSidXD",
-    "VivaanNetwork",
+    "NeoNextGen",
 ]
 
 
