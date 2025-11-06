@@ -9,6 +9,7 @@ from typing import Union
 import string
 import requests
 import yt_dlp
+import aiohttp
 from pyrogram.enums import MessageEntityType
 from pyrogram.types import Message
 from requests.adapters import HTTPAdapter
