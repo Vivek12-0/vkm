@@ -19,7 +19,7 @@ ASSUSERNAME = getenv("ASSUSERNAME", "Vivaanassistant")
 
 # ── Database & logging ─────────────────────────────────────────────────────────
 MONGO_DB_URI = getenv("MONGO_DB_URI")
-LOGGER_ID = int(getenv("LOGGER_ID", -1002922616309))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002827278154))
 
 # ── Limits (durations in min/sec; sizes in bytes) ──────────────────────────────
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 300))
