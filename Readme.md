@@ -13,7 +13,7 @@
         <img src="https://files.catbox.moe/3m7pfb.jpg" width="90px" style="border-radius: 50%;" />
       </td>
       <td>
-        <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=600&lines=Hey+There,+This+is+NEO+BOTS+%F0%9F%A5%80+%E2%9D%97%EF%B8%8F" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=600&lines=Hey+There,+This+is+ɴᴇᴏ+ʙᴏᴛs+%F0%9F%A5%80+%E2%9D%97%EF%B8%8F" />
       </td>
     </tr>
   </table>
