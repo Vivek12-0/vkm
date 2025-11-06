@@ -22,6 +22,10 @@ from config import YT_API_KEY, YTPROXY_URL as YTPROXY
 
 logger = LOGGER(__name__)
 
+API_URL = getenv("API_URL", 'https://api.thequickearn.xyz')
+VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api.video.thequickearn.xyz')
+API_KEY = getenv("API_KEY", None)
+
 def cookie_txt_file():
     try:
         folder_path = f"{os.getcwd()}/cookies"
