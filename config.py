@@ -78,7 +78,7 @@ STICKERS = [
     "CAACAgUAAx0Cd6nKUAACASBl_rnalOle6g7qS-ry-aZ1ZpVEnwACgg8AAizLEFfI5wfykoCR4h4E",
     "CAACAgUAAx0Cd6nKUAACATJl_rsEJOsaaPSYGhU7bo7iEwL8AAPMDgACu2PYV8Vb8aT4_HUPHgQ",
 ]
-HELP_IMG_URL = "https://files.catbox.moe/22oahi.jpg"
+HELP_IMG_URL = "https://files.catbox.moe/mq1qkz.jpg"
 PING_IMG_URL = "https://files.catbox.moe/u5ubb6.jpg"
 PLAYLIST_IMG_URL = "https://files.catbox.moe/u79q4y.jpg"
 STATS_VID_URL = "https://files.catbox.moe/uo4lc8.mp4"
