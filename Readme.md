@@ -13,7 +13,7 @@
         <img src="https://files.catbox.moe/3m7pfb.jpg" width="90px" style="border-radius: 50%;" />
       </td>
       <td>
-        <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=600&lines=Hey+There,+This+is+ɴᴇᴏ+ʙᴏᴛs+%F0%9F%A5%80+%E2%9D%97%EF%B8%8F" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=600&lines=Hey+There,+This+is+NextGenBeatsbot+%F0%9F%A5%80+%E2%9D%97%EF%B8%8F" />
       </td>
     </tr>
   </table>
@@ -55,13 +55,13 @@
 
 <details>
 <summary><b>𝗦𝗨𝗣𝗣𝗢𝗥𝗧</b></b></summary>
-<a href="https://t.me/I_VAMPIRE_KING"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/WHITE_DEVIL_BANNER"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 </details>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <details>
 <summary><b>𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗠𝗘</b></b></summary>
-<a href="https://t.me/I_VAMPIRE_KING"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/WHITE_DEVIL_BANNER"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 </details>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
